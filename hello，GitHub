@@ -1,2 +1,4 @@
-In this repostory, some interesting issues will be present!
-so, just cheering!
+#In this repostory, some interesting issues will be present!
+#so, just cheering!
+for i in range(n):
+  print(i)
